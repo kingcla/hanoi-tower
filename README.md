@@ -8,7 +8,12 @@ The rest was downloaded from open source assets websites (like [opengameart.org]
 
 The project had two main target platforms: Windows and Android.
 
+Game code was written in Visual Studio Community edition. For debugging purposes, don’t forget to check the Visual Studio tools for Unity [here](http://unityvs.com/).
+
 Unity version _2017.3.1f1_ was used.
+
+![demo1](https://github.com/kingcla/hanoi-game/blob/master/demo/demo1.png)
+![demo2](https://github.com/kingcla/hanoi-game/blob/master/demo/demo2.png)
 
 ## Game Development Journal
 
