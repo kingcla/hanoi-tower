@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Disk
+  - Stick
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1066386949
+    locked: 0
+  - name: Base
+    uniqueID: 264561043
+    locked: 0
+  - name: BackDisk
+    uniqueID: 4175561865
+    locked: 0
+  - name: Stick
+    uniqueID: 4238689759
+    locked: 0
+  - name: FourthDisk
+    uniqueID: 3547204095
+    locked: 0
+  - name: ThirdDisk
+    uniqueID: 618126233
+    locked: 0
+  - name: SecondDisk
+    uniqueID: 405045197
+    locked: 0
+  - name: FirstDisk
+    uniqueID: 2710017425
+    locked: 0
+  - name: DraggedDisk
+    uniqueID: 3314877105
+    locked: 0
+  - name: GameOverBG
+    uniqueID: 975454179
+    locked: 0
+  - name: Foreground
+    uniqueID: 1528610215
+    locked: 0
