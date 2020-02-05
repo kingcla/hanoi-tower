@@ -12,8 +12,8 @@ Game code was written in Visual Studio Community edition. For debugging purposes
 
 Unity version _2017.3.1f1_ was used.
 
-![demo1](https://github.com/kingcla/hanoi-game/blob/master/demo/demo1.png)
-![demo2](https://github.com/kingcla/hanoi-game/blob/master/demo/demo2.png)
+![demo1](https://github.com/kingcla/hanoi-tower/blob/master/demo/demo1.png)
+![demo2](https://github.com/kingcla/hanoi-tower/blob/master/demo/demo2.png)
 
 ## Game Development Journal
 
